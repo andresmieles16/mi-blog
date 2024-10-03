@@ -19,7 +19,7 @@ export class BlogPostComponent implements OnInit {
     private headerService: HeaderService){
   }
   ngOnInit(){
-    const slug = this.activeRouter.snapshot.paramMap.get('post');
+    const slug = this.activeRouter.snapshot.paramMap.get('postSlug');
     this.http.get(`assets/posts/${slug}/post.md`, { responseType: 'text' }).subscribe({
       next: data => this.manageMarkdonwFileData(data),
       error: error => console.log(error)

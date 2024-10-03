@@ -3,7 +3,7 @@ title: "Creación de una Computadora Básica con ASUS"
 subtitle: "Guía para Principiantes"
 author: "Desarrollador Feliz"
 publicationdate: "2024-09-20"
-thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5XqD_T-tDhQbIi9lIAZf9mTOwmJuYXea17A&s"
+thumbnail: "https://reseller.com.mx/wp-content/uploads/2023/01/EsNoticia_ASUSROG_CES2023.jpg"
 slug: "creacion-de-una-computadora-basica-con-asus"
 ---
 
@@ -12,6 +12,8 @@ ASUS es una marca reconocida por ofrecer una amplia gama de componentes y comput
 
 ## Introducción a ASUS
 ASUS se ha establecido como una de las marcas más confiables en el mundo de la tecnología, conocida por su innovación y calidad. Tanto si eres un entusiasta de las computadoras como si eres un principiante, ASUS te ofrece una plataforma accesible para construir tu propio equipo.
+
+![EQUIPOS ASUS](https://www.eluniversal.com.mx/resizer/ThIkOyuSj-_Gkef6eVn75Z8R8oY=/0x620/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/LS56A6WH5VEQTA3HUUCANVZZUU.jpg)
 
 ## Paso 1: Selecciona tus Componentes
 El primer paso para construir una computadora es seleccionar los componentes. Para esta guía, te recomendamos utilizar una placa base ASUS como la ASUS Prime B450M, que ofrece una excelente relación calidad-precio para principiantes. También necesitarás un procesador compatible, como el AMD Ryzen 5 3600, junto con memoria RAM, almacenamiento y una fuente de alimentación adecuada.
@@ -39,4 +41,4 @@ Construir una computadora con componentes ASUS es una excelente manera de aprend
 
 Recuerda, la construcción de computadoras es un proceso que se perfecciona con la práctica, así que no dudes en experimentar con diferentes componentes ASUS para optimizar tu experiencia.
 
-Para más información y tutoriales detallados, consulta la documentación oficial de ASUS.
+Para más información y tutoriales detallados, consulta la documentación oficial [Página Oficial de ASUS](https://www.asus.com/latin/support/).

@@ -12,8 +12,8 @@ export class AboutComponent {
 
   private uidata: Headerdata = {
     title: 'Sobre Nosotros',
-    subtitle: 'Tu fuente confiable de información sobre el mundo de las computadoras.',
-    thumbnail: 'https://assets.prestashop2.com/sites/default/files/wysiwyg/pagina-sobre-nosotros-quienes-somos.png'
+    subtitle: 'Hazlo tú mismo: Arma y configura tu PC paso a paso.',
+    thumbnail: 'https://ideogram.ai/assets/progressive-image/balanced/response/kl1h1HsaQ_iTvtJjHAiqvA'
   }
 
   constructor(private headerService: HeaderService){

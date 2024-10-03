@@ -22,7 +22,7 @@ export class HomeComponent implements OnInit {
   private uidata: Headerdata = {
     title: 'Bienvenidos a mi blog',
     subtitle: 'Conoce de marcas de equipos de computo.',
-    thumbnail: 'https://i0.wp.com/www.blog.doto.com.mx/wp-content/uploads/2022/12/lista-mejores-marcas-de-laptops-mexico.jpg?fit=1240%2C490&ssl=1'
+    thumbnail: 'https://ideogram.ai/assets/image/lossless/response/D3dwvUn0QoWzl18V5ZnJ6A'
   }
 
   posts: Array<PostPreview> = []
