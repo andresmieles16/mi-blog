@@ -20,8 +20,8 @@ type HomeData = {
 export class HomeComponent implements OnInit {
 
   private uidata: Headerdata = {
-    title: 'Bienvenidos a mi blog',
-    subtitle: 'Conoce de marcas de equipos de computo.',
+    title: 'Tu PC, Tu Poder',
+    subtitle: 'Guías paso a paso para ensamblar tu computadora ideal con las marcas más reconocidas',
     thumbnail: 'https://ideogram.ai/assets/image/lossless/response/D3dwvUn0QoWzl18V5ZnJ6A'
   }
 

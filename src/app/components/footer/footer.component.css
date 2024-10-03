@@ -1,0 +1,5 @@
+img.custom-size {
+    width: 1349px;
+    height: 100px;
+    object-fit: cover; /* Ajusta la imagen para que llene el contenedor sin distorsión */
+}
